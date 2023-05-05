@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dave-Smith
-- 👀 I’m interested in Go, JavasScript, C#, CI/CD
-- 🌱 I’m currently learning Go
+- 👀 I’m interested in Go, Rust, JavasScript, C#, CI/CD
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on anything
 - 📫 Send me an email, or submit an issue to one of my repos
 
